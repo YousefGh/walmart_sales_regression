@@ -17,6 +17,8 @@ ___Taken from Kaggle Competetion___
 - Modeling and Model-Driven Optimization
 - Quality Metric Summary
 
-Possible Improvements could be done with Data-Driven model optimization by focusing on the outliers
+Possible Improvements could be done with 
+ - Data-Driven model optimization by focusing on the outliers
+ - Using a recurrent neural network
 
 _Click on walmart_sales_regression.html HTML file, Click Download, in the redirected page, Save the page in your desktop, open it from your PC so that it renders HTML and CSS markdowns in the browser. And Enjoy!_
