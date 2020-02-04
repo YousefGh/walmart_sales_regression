@@ -16,3 +16,6 @@ ___Taken from Kaggle Competetion___
 - Dimensionality Reduction
 - Modeling
 - Quality Metric Summary
+
+
+_Click on walmart_sales_regression.html HTML file, Click Download, in the redirected page, Save the page in your desktop, open it from your PC so that it renders HTML and CSS markdowns in the browser. And Enjoy!_
